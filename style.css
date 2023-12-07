@@ -5,10 +5,10 @@
 
 /* #5b7065, black */
 body {
-  background: rgba(48, 64, 64, 1.0); 
-  background: -webkit-radial-gradient(center, rgba(48, 64, 64, 1.0) 0%, rgba(0, 0, 0, 1.0) 100%);
-  background: -moz-radial-gradient(center, rgba(48, 64, 64, 1.0) 0%, rgba(0, 0, 0, 1.0) 100%);
-  background: radial-gradient(ellipse at center, rgba(48, 64, 64, 1.0) 0%, rgba(0, 0, 0, 1.0) 100%);
+  background: rgba(200,162,200); 
+  background: -webkit-radial-gradient(center, rgba(200, 162, 200) 0%);
+  background: -moz-radial-gradient(center, rgba(200, 162, 200) 0%);
+  background: radial-gradient(ellipse at center, rgba(200, 162, 200));
   font-family: 'Shadows Into Light', cursive;
   min-height: 100vh;
 }
